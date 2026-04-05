@@ -37,7 +37,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 > **On metrics:** Results below are current development baselines on the PaySim dataset. Models are under active improvement — production-ready performance is the target, not notebook benchmarks.
 
-- 🎯 Fraud detection baseline: **0.674 PR-AUC** on highly imbalanced data (1.8% fraud rate, 200K transactions)
+- 🎯 Fraud detection baseline: **0.674 PR-AUC** on highly imbalanced data (1.8% fraud rate, 200K PaySim simulated transactions — actively improving)
 - 🔍 **SHAP explainability** integrated for regulatory compliance — KYC/AML reporting requirements
 - 📊 CFA-level risk analytics in Excel: **CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
 - 🏡 Australian tax-optimised mortgage strategy modelling **$2M+ lifetime tax savings**
@@ -48,7 +48,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 | Project | Problem | Stack | Key Result |
 |---------|---------|-------|-----------|
-| [🔍 Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Detect fraud in digital payment platforms with audit-ready explainability | Python · XGBoost · LightGBM · SHAP · FastAPI | 0.674 PR-AUC baseline · 31 engineered features · KYC/AML compliant |
+| [🔍 Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Detect and explain fraud patterns in simulated payment data (PaySim), production-deployment ready | Python · XGBoost · LightGBM · SHAP · FastAPI | 0.674 PR-AUC baseline (improving) · 31 features · SHAP/KYC-ready |
 | [📈 Stock Portfolio Analytics Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | CFA-level risk decomposition for portfolio analysis | Excel 365 · STOCKHISTORY · Dynamic Arrays · DAX | CAPM · VaR/CVaR · Sharpe/Sortino/Calmar · 16 validation checks |
 | [🏡 SuperSmart Mortgage Model](https://github.com/alvenyuka/SuperSmart-Mortgage-Model) | Tax-optimised mortgage strategy for Australian households | Excel 365 · ATO 2026-27 brackets · DAX · VBA | $2M+ modelled savings · Division 293 · Salary sacrifice · Offset mechanics |
 | 💳 Credit Risk Scoring | *(coming soon)* PD/LGD modelling · Scorecard · Capital requirements | Python · Lending Club | In progress |
