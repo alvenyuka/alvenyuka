@@ -81,18 +81,6 @@ I'm a **Finance × Data Science practitioner** building production-grade ML syst
 
 ---
 
-## 🎯 Current Focus
-
-```python
-current_projects = {
-    "active":    "Fraud Detection System  →  PR-AUC: 0.674 ✅",
-    "next":      "Credit Risk Scoring     →  Lending Club dataset",
-    "planned":   "Customer LTV Prediction →  UCI Online Retail II",
-    "learning":  ["MLOps", "Kafka streaming", "dbt", "Spark"],
-}
-```
-
----
 
 <div align="center">
 
