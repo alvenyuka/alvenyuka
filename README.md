@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Alven%20Yuka&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Nairobi%2C%20Kenya&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E75B6&center=true&vCenter=true&width=620&lines=Finance+%C3%97+Data+Science+Practitioner;Building+FinTech+ML+Pipelines;Excel+Financial+Modelling+Expert;SHAP+%7C+XGBoost+%7C+LightGBM+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E75B6&center=true&vCenter=true&width=620&lines=Finance+%C3%97+Data+Science+Professional;Building+FinTech+ML+Pipelines;Excel+Financial+Modelling+Expert;SHAP+%7C+XGBoost+%7C+LightGBM+%7C+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
