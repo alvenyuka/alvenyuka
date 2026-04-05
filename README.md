@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=1F3864)](https://github.com/alvenyuka)
-[![Profile Views](https://komarev.com/ghpvc/?username=alvenyuka&style=for-the-badge&color=1F3864&label=PROFILE+VIEWS)](https://github.com/alvenyuka)
 
 </div>
 
