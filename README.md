@@ -86,23 +86,13 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alvenyuka&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=alvenyuka&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
-
----
-
-## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvenyuka&theme=github-compact&hide_border=true&area=true&color=2E75B6&line=1F3864&point=ffffff" width="100%"/>
 
