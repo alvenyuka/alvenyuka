@@ -84,7 +84,7 @@ I'm a **Finance × Data Science practitioner** building production-grade ML syst
 
 <div align="center">
 
-*"Turning financial data into decisions that matter."*
+*"Where numbers lead & algorithms speak."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=120&section=footer" width="100%"/>
 
