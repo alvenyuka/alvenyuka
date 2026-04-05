@@ -55,17 +55,6 @@ I'm a **Finance × Data Science practitioner** building production-grade ML syst
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Key Result |
-|---------|-------|------------|
-| [🔍 Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Python · SHAP · FastAPI | **0.674 PR-AUC** · SHAP explainability · Production blueprint |
-| [📈 Stock Portfolio Tracker](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Excel 365 | CFA-level · CAPM · VaR/CVaR · 16+ validation checks |
-| [🏡 SuperSmart Mortgage Model](https://github.com/alvenyuka/SuperSmart-Mortgage-Model) | Excel 365 | Tax optimisation · Salary sacrifice · $2M+ modelling |
-| 💳 Credit Risk Scoring *(coming soon)* | Python · Lending Club | LGD/PD modelling · Scorecard · Capital requirements |
-| 👥 Customer LTV Prediction *(coming soon)* | Python · UCI Retail II | CLV modelling · Cohort analysis · Retention prediction |
 
 ---
 
