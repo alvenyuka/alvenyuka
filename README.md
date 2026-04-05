@@ -90,9 +90,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&cache_seconds=1800" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvenyuka&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
