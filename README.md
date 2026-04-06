@@ -113,7 +113,7 @@ current_projects = {
 
 <div align="center">
 
-*"Turning financial data into decisions that matter."*
+*"Where numbers lead & algorithms speak."*
 
 <br/>
 
