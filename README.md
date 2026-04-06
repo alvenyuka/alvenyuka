@@ -20,7 +20,7 @@
 
 ---
 
-## 👋 What I Build — And What It Solves For You
+## 👋 Value Proposition
 
 If you need someone who can turn raw financial transaction data into a working fraud detection system — with audit-ready SHAP explanations, threshold-optimised scoring, and a FastAPI deployment blueprint — this is the right portfolio.
 
