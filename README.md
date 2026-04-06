@@ -117,7 +117,7 @@ current_projects = {
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Roles-Financial%20Data%20Scientist%20%7C%20Quant%20Risk%20Analyst-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Roles-Financial%20Data%20Scientist%20%7C%20Quant%20Risk%20Analyst%20%7%20Business20%Analyst-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=120&section=footer" width="100%"/>
 
