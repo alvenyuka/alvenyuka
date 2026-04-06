@@ -39,7 +39,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 - 🎯 Fraud detection baseline: **0.674 PR-AUC** on highly imbalanced data (1.8% fraud rate, 200K PaySim simulated transactions — actively improving)
 - 🔍 **SHAP explainability** integrated for regulatory compliance — KYC/AML reporting requirements
-- 📊 CFA-level risk analytics in Excel: **CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
+- 📊 Risk analytics in Excel: **CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
 - 🏡 Australian tax-optimised mortgage strategy modelling **$2M+ lifetime tax savings**
 
 ---
