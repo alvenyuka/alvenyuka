@@ -24,7 +24,7 @@
 
 If you need someone who can turn raw financial transaction data into a working fraud detection system — with audit-ready SHAP explanations, threshold-optimised scoring, and a FastAPI deployment blueprint — this is the right portfolio.
 
-I build **ML pipelines and financial models** that solve real FinTech problems: fraud risk scoring, credit analytics, and portfolio risk quantification. My background spans **3 years of GIZ development finance operations** (500+ monthly multi-currency vouchers, zero audit findings across two cycles) and **production-grade Python ML engineering**.
+I build **ML pipelines and financial models** that solve real FinTech problems: fraud risk scoring, credit analytics, and portfolio risk quantification. My background spans **3 years of experience in development finance operations** (500+ monthly multi-currency vouchers, zero audit findings across two cycles) and **production-grade Python ML engineering**.
 
 **What this means for a hiring team or client:**
 
