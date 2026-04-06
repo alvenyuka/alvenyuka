@@ -102,7 +102,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 ```python
 current_projects = {
-    "active":   "Fraud Detection System  →  PR-AUC: 0.674 baseline (actively improving) ✅",
+    "work in progress":   "Fraud Detection System  →  PR-AUC: 0.674 baseline (actively improving) ✅",
     "next":     "Credit Risk Scoring     →  Lending Club · PD/LGD · Regulatory Scorecard",
     "planned":  "Customer LTV Prediction →  UCI Online Retail II · Cohort · CLV Modelling",
     "learning": ["MLOps", "Kafka streaming", "dbt", "Spark"],
