@@ -86,31 +86,6 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=alvenyuka&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvenyuka&theme=github-compact&hide_border=true&area=true&color=2E75B6&line=1F3864&point=ffffff" width="100%"/>
-
----
-
-## 🎯 Current Focus
-
-```python
-current_projects = {
-    "work in progress":   "Fraud Detection System  →  PR-AUC: 0.674 baseline (actively improving) ✅",
-    "next":     "Credit Risk Scoring     →  Lending Club · PD/LGD · Regulatory Scorecard",
-    "planned":  "Customer LTV Prediction →  UCI Online Retail II · Cohort · CLV Modelling",
-    "learning": ["MLOps", "Kafka streaming", "dbt", "Spark"],
-}
-```
-
----
-
 <div align="center">
 
 *"Where numbers lead & algorithms speak."*
