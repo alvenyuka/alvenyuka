@@ -76,7 +76,7 @@ I build **ML pipelines and financial models** that solve real FinTech problems: 
 
 <div align="center">
 
-*"**Where numbers lead & algorithms speak**."*
+**Where numbers lead & algorithms speak**
 
 <br/>
 
