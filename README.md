@@ -1,87 +1,115 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ALVEN YUKA — GITHUB PROFILE README                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ALVEN YUKA — GITHUB PROFILE README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Alven%20Yuka&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Financial%20Data%20Scientist%20%7C%20Nairobi%2C%20Kenya&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F3864,100=0d1117&height=200&section=header&text=Alven%20Yuka&fontSize=48&fontColor=4F9CF9&fontAlignY=38&desc=Financial%20Data%20Scientist%20%7C%20FinTech%20ML%20Engineer&descAlignY=60&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E75B6&center=true&vCenter=true&width=720&lines=Financial+Data+Scientist+%7C+Nairobi%2C+Kenya;Fraud+Detection+%7C+Credit+Risk+%7C+Portfolio+Analytics;Python+%7C+SHAP+%7C+XGBoost+%7C+LightGBM+%7C+FastAPI;IFRS+%7C+CAPM+%7C+VaR+%2F+CVaR+%7C+Power+BI+%7C+SAP+S%2F4HANA" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
-[![Email](https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=1F3864)](https://github.com/alvenyuka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
+[![Email](https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=1F3864)](https://github.com/alvenyuka)
+[![Profile Views](https://komarev.com/ghpvc/?username=alvenyuka&style=for-the-badge&color=1F3864&label=PROFILE+VIEWS)](https://github.com/alvenyuka)
 
 </div>
 
 ---
 
-## 👋 Value Proposition
+## Who I Am
 
-If you need someone who can turn raw financial transaction data into a working fraud detection system — with audit-ready SHAP explanations, threshold-optimised scoring, and a FastAPI deployment blueprint — this is the right portfolio.
+I spent three years inside development finance operations processing 500+ multi-currency vouchers a month, supporting 12 donor-funded programmes, and navigating two audit cycles without a single finding. That work taught me something most data scientists learn the hard way: the gap between a model that runs and a model that a risk desk actually trusts is enormous.
 
-I build **ML pipelines and financial models** that solve real FinTech problems: fraud risk scoring, credit analytics, and portfolio risk quantification. My background spans **3 years of experience in development finance operations** (500+ monthly multi-currency vouchers, zero audit findings across two cycles) and **production-grade Python ML engineering**.
-
-**What this means for a hiring team or client:**
-
-| What you need | What I bring |
-|---|---|
-| Models with explainability for compliance | SHAP values per transaction — KYC/AML audit-ready |
-| Finance-domain fluency, not just code | I understand what VaR, CVaR, and Sortino mean to a risk desk |
-| End-to-end thinking | Raw data → feature engineering → FastAPI deployment → regulatory audit trail |
-| International finance experience | 12 donor-funded programmes, IFRS/GAAP, SAP S/4HANA at GIZ |
-
-> **On metrics:** Results below are current development baselines on the PaySim dataset. Models are under active improvement — production-ready performance is the target, not notebook benchmarks.
-
-- 🎯 Fraud detection baseline: **0.674 PR-AUC** on highly imbalanced data (1.8% fraud rate, 200K PaySim simulated transactions — actively improving)
-- 🔍 **SHAP explainability** integrated for regulatory compliance — KYC/AML reporting requirements
-- 📊 Risk analytics in Excel: **CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
-- 🏡 Australian tax-optimised mortgage strategy modelling **$2M+ lifetime tax savings**
+That gap is what I work to close. I build ML systems for financial problems — fraud detection, credit risk, portfolio analytics — with the compliance layer built in from the start, not bolted on at the end.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-**Languages & Core**
+### Fraud Detection System
+**PaySim · Python · XGBoost · SHAP · FastAPI**
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-365%20Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+Trained on 200K simulated transactions with a 1.8% fraud rate. The hard part was not the model — it was making the outputs explainable enough for a KYC/AML audit trail. Current baseline sits at **0.674 PR-AUC** on highly imbalanced data, actively being pushed higher through threshold optimisation and feature engineering.
 
-**Machine Learning & Analytics**
+[![Repo](https://img.shields.io/badge/View%20Repo-Fraud%20Detection-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/Fraud-Detection-System)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-7B2D8B?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+---
 
-**Finance Domain**
+### Stock Portfolio Tracker and Analytics Engine
+**Python · CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SAP](https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![IFRS](https://img.shields.io/badge/IFRS%2FGAAP-Compliance-1F3864?style=flat-square)
+Built to answer the kind of questions a risk desk asks, not just what a textbook exercise requires. Covers drawdown analysis, risk-adjusted return attribution, and benchmark comparison — the tools I needed when working with donor fund portfolios.
 
-**Deployment & Visualisation**
+[![Repo](https://img.shields.io/badge/View%20Repo-Portfolio%20Analytics-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+---
+
+### Mortgage Strategy Model
+**Excel · Python · Australian Tax Law · Offset Structuring**
+
+Modelled a 2M+ lifetime tax saving through offset account structuring for an Australian property portfolio. Started as a personal finance problem, ended as a demonstration of how financial modelling translates directly from operations into strategy.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-Mortgage%20Model-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/SuperSmart-Mortgage-Model)
+
+---
+
+## What I Bring to a Team
+
+| The Problem | My Answer |
+|---|---|
+| Models that cannot survive a compliance review | SHAP explanations per prediction built for KYC/AML reporting |
+| Engineers who do not speak finance | 3 years on the operations side — VaR, CVaR, IFRS, SAP S/4HANA |
+| Prototypes that never reach production | FastAPI deployment blueprints, not just Jupyter notebooks |
+| Analysts without international context | 12 donor-funded programmes across multiple currencies and jurisdictions |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-4F9CF9?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-brightgreen?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boost-green?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA-ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&icon_color=4F9CF9&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+---
+
+## Currently Working On
+
+- Pushing fraud detection PR-AUC past 0.85 through ensemble stacking and cost-sensitive learning
+- Building a credit scoring pipeline using open banking data structures
+- Documenting the full FinTech ML stack as a reference for practitioners coming from finance operations
+
+---
+
+## Open To
+
+I am looking for roles where finance domain knowledge and ML engineering sit at the same table — risk analytics, fraud intelligence, credit modelling, or quantitative research teams that need someone who can talk to both the model and the auditor.
+
+If that sounds like your team, let us talk.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
 
 ---
 
 <div align="center">
-
-**Where numbers lead & algorithms speak**
-
-<br/>
-
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Roles-Financial%20Data%20Scientist%20%7C%20Quant%20Risk%20Analyst-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F3864,100=0d1117&height=100&section=footer" width="100%"/>
 </div>
