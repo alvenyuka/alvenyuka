@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Alven%20Yuka&fontSize=52&fontColor=4F9CF9&fontAlignY=55&desc=Financial%20Data%20Scientist%20%7C%20FinTech%20ML%20Engineer&descAlignY=75&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Alven%20Yuka&fontSize=52&fontColor=4F9CF9&fontAlignY=55&desc=Financial%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=75&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
