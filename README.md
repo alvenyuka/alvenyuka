@@ -84,22 +84,6 @@ Modelled a 2M+ lifetime tax saving through offset account structuring for an Aus
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&icon_color=4F9CF9&text_color=c9d1d9&border_radius=10" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&text_color=c9d1d9&border_radius=10" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0d1117&ring=4F9CF9&fire=4F9CF9&currStreakLabel=4F9CF9" height="165"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🚧 Currently Working On
 
 - Pushing fraud detection PR-AUC past 0.85 through ensemble stacking and cost-sensitive learning
