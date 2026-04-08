@@ -2,16 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F3864,100=0d1117&height=200&section=header&text=Alven%20Yuka&fontSize=48&fontColor=4F9CF9&fontAlignY=38&desc=Financial%20Data%20Scientist%20%7C%20FinTech%20ML%20Engineer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=4F9CF9&fontAlignY=42&desc=Financial%20Data%20Scientist%20%7C%20FinTech%20ML%20Engineer&descAlignY=62&descSize=20&animation=fadeIn&stroke=1F3864&strokeWidth=2" width="100%" style="display:block;"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
-[![Email](https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=1F3864)](https://github.com/alvenyuka)
-[![Profile Views](https://komarev.com/ghpvc/?username=alvenyuka&style=for-the-badge&color=1F3864&label=PROFILE+VIEWS)](https://github.com/alvenyuka)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/alven-yuka-610b78174)
+[![Email](https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alvenyuka2@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=4F9CF9&labelColor=0d1117&logoColor=white)](https://github.com/alvenyuka)
+[![Profile Views](https://komarev.com/ghpvc/?username=alvenyuka&style=for-the-badge&color=4F9CF9&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/alvenyuka)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Who I Am
 
@@ -19,97 +21,103 @@ I spent three years inside development finance operations processing 500+ multi-
 
 That gap is what I work to close. I build ML systems for financial problems — fraud detection, credit risk, portfolio analytics — with the compliance layer built in from the start, not bolted on at the end.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## What I Build
 
-### Fraud Detection System
+### 🔍 Fraud Detection System
 **PaySim · Python · XGBoost · SHAP · FastAPI**
 
 Trained on 200K simulated transactions with a 1.8% fraud rate. The hard part was not the model — it was making the outputs explainable enough for a KYC/AML audit trail. Current baseline sits at **0.674 PR-AUC** on highly imbalanced data, actively being pushed higher through threshold optimisation and feature engineering.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-Fraud%20Detection-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/Fraud-Detection-System)
+[![Repo](https://img.shields.io/badge/View%20Repo-Fraud%20Detection-4F9CF9?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/alvenyuka/Fraud-Detection-System)
 
 ---
 
-### Stock Portfolio Tracker and Analytics Engine
+### 📈 Stock Portfolio Tracker and Analytics Engine
 **Python · CAPM · VaR · CVaR · Sharpe · Sortino · Calmar**
 
 Built to answer the kind of questions a risk desk asks, not just what a textbook exercise requires. Covers drawdown analysis, risk-adjusted return attribution, and benchmark comparison — the tools I needed when working with donor fund portfolios.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-Portfolio%20Analytics-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
+[![Repo](https://img.shields.io/badge/View%20Repo-Portfolio%20Analytics-4F9CF9?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
 
 ---
 
-### Mortgage Strategy Model
+### 🏡 Mortgage Strategy Model
 **Excel · Python · Australian Tax Law · Offset Structuring**
 
 Modelled a 2M+ lifetime tax saving through offset account structuring for an Australian property portfolio. Started as a personal finance problem, ended as a demonstration of how financial modelling translates directly from operations into strategy.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-Mortgage%20Model-4F9CF9?style=flat-square&logo=github)](https://github.com/alvenyuka/SuperSmart-Mortgage-Model)
+[![Repo](https://img.shields.io/badge/View%20Repo-Mortgage%20Model-4F9CF9?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/alvenyuka/SuperSmart-Mortgage-Model)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## What I Bring to a Team
 
 | The Problem | My Answer |
-|---|---|
-| Models that cannot survive a compliance review | SHAP explanations per prediction built for KYC/AML reporting |
+|:---|:---|
+| Models that cannot survive a compliance review | SHAP explanations per prediction — built for KYC/AML reporting |
 | Engineers who do not speak finance | 3 years on the operations side — VaR, CVaR, IFRS, SAP S/4HANA |
 | Prototypes that never reach production | FastAPI deployment blueprints, not just Jupyter notebooks |
 | Analysts without international context | 12 donor-funded programmes across multiple currencies and jurisdictions |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-4F9CF9?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-brightgreen?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boost-green?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA-ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
-
----
-
-## GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&icon_color=4F9CF9&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&text_color=c9d1d9" width="49%"/>
+![Python](https://img.shields.io/badge/Python-3.10+-4F9CF9?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boost-00C851?style=for-the-badge&labelColor=0d1117)
+![LightGBM](https://img.shields.io/badge/LightGBM-Ensemble-00C851?style=for-the-badge&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-Deployment-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=for-the-badge&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA-ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=0d1117)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d1117)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Currently Working On
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&icon_color=4F9CF9&text_color=c9d1d9&border_radius=10" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F9CF9&text_color=c9d1d9&border_radius=10" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0d1117&ring=4F9CF9&fire=4F9CF9&currStreakLabel=4F9CF9" height="165"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚧 Currently Working On
 
 - Pushing fraud detection PR-AUC past 0.85 through ensemble stacking and cost-sensitive learning
 - Building a credit scoring pipeline using open banking data structures
 - Documenting the full FinTech ML stack as a reference for practitioners coming from finance operations
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Open To
+## 🤝 Open To
 
 I am looking for roles where finance domain knowledge and ML engineering sit at the same table — risk analytics, fraud intelligence, credit modelling, or quantitative research teams that need someone who can talk to both the model and the auditor.
 
-If that sounds like your team, let us talk.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alven-yuka-610b78174)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
-
----
+If that sounds like your team, reach out directly.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F3864,100=0d1117&height=100&section=footer" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/alven-yuka-610b78174)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-4F9CF9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alvenyuka2@gmail.com)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=footer" width="100%"/>
