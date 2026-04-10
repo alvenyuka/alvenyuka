@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:E65C00&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Financial%20Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20&Credit%20Risk&descAlignY=62&descSize=20&descFontColor=FFD580&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:E65C00&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Financial%20Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20"&"Credit%20Risk&descAlignY=62&descSize=20&descFontColor=FFD580&animation=fadeIn" width="100%"/>
 
 <br/>
 
