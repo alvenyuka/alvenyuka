@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:E65C00&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Financial%20Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20%7C%20Credit%20Risk%20Analyst&descAlignY=62&descSize=20&descFontColor=FFD580&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:E65C00&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20%7C%20Risk%20Analyst&descAlignY=62&descSize=20&descFontColor=FFD580&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -108,7 +108,7 @@ Modelled a 2M+ lifetime tax saving through offset account structuring for an Aus
 
 ## 🤝 Open To
 
-I am looking for roles where finance domain knowledge and ML engineering sit at the same table — risk analytics, fraud intelligence, credit modelling, or quantitative research teams that need someone who can talk to both the model and the auditor.
+I am focused on **fraud detection and credit risk roles in FinTech and development finance** — specifically teams building ML-driven fraud intelligence systems, credit scoring pipelines, or AML/KYC compliance tooling where explainability and audit-readiness matter as much as model performance.
 
 If that sounds like your team, reach out directly.
 
