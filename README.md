@@ -86,33 +86,99 @@ An Australian tax-optimised mortgage repayment model for dual-persona households
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&icon_color=E65C00&text_color=FFFFFF&border_radius=10" height="165"/>
+<a href="https://github.com/alvenyuka">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&icon_color=E65C00&text_color=FFFFFF&border_radius=12&cache_seconds=86400" alt="GitHub stats"/>
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&text_color=FFFFFF&border_radius=10" height="165"/>
+<a href="https://github.com/alvenyuka">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&text_color=FFFFFF&border_radius=12&cache_seconds=86400" alt="Top languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0D1B4B&ring=E65C00&fire=FFD580&currStreakLabel=E65C00" height="165"/>
+<a href="https://github.com/alvenyuka">
+  <img height="175" src="https://streak-stats.demolab.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0D1B4B&ring=E65C00&fire=FFD580&currStreakLabel=FFD580&dates=FFFFFF&sideLabels=FFD580&sideNums=FFFFFF&stroke=E65C00&border_radius=12" alt="Streak stats"/>
+</a>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvenyuka&theme=tokyo-night&bg_color=0D1B4B&color=FFD580&line=E65C00&point=FFFFFF&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20—%20last%2031%20days&days=31" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=alvenyuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚧 Currently Working On
+## 🚧 Currently Building
 
-- Wrapping the Fraud Detection System in a FastAPI service with a `/score` endpoint and Dockerfile, so the notebook becomes a deployable artefact
-- Building a credit scoring pipeline using open banking data structures
-- Documenting the full FinTech ML stack as a reference for practitioners coming from finance operations
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Status</th>
+      <th align="left">Project</th>
+      <th align="left">What's left</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🟧&nbsp;<sub>In&nbsp;flight</sub></td>
+      <td><b>FastAPI service for Fraud Detection</b><br/><sub>turn the notebook into a deployable artefact</sub></td>
+      <td><code>/score</code> endpoint · Pydantic request schema · Dockerfile · CI workflow</td>
+    </tr>
+    <tr>
+      <td align="center">🟦&nbsp;<sub>Designing</sub></td>
+      <td><b>Open-banking credit scoring pipeline</b><br/><sub>PSD2-style transaction features → risk score</sub></td>
+      <td>Feature taxonomy from transaction categories · cohort backtesting harness</td>
+    </tr>
+    <tr>
+      <td align="center">📝&nbsp;<sub>Documenting</sub></td>
+      <td><b>FinTech ML reference stack</b><br/><sub>for finance-ops folks moving into ML</sub></td>
+      <td>End-to-end walkthrough · model risk checklist · deployment patterns</td>
+    </tr>
+  </tbody>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Open To
 
-I am focused on **fraud detection and credit risk roles in FinTech and development finance** — specifically teams building ML-driven fraud intelligence systems, credit scoring pipelines, or AML/KYC compliance tooling where explainability and audit-readiness matter as much as model performance.
+<div align="center">
+
+I am focused on **fraud detection** and **credit risk** roles in **FinTech** and **development finance** — teams where explainability and audit-readiness matter as much as model performance.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">🎯 Role focus</th>
+      <th align="left">📍 What signals "right team" for me</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ML-driven fraud intelligence</td>
+      <td>SHAP / model-risk reviews already in production</td>
+    </tr>
+    <tr>
+      <td>Credit scoring pipelines</td>
+      <td>Open banking / PSD2-style data access</td>
+    </tr>
+    <tr>
+      <td>AML / KYC compliance tooling</td>
+      <td>Quarterly model-risk governance on the calendar</td>
+    </tr>
+    <tr>
+      <td>Development-finance analytics</td>
+      <td>Multi-donor, multi-currency portfolios</td>
+    </tr>
+  </tbody>
+</table>
 
 If that sounds like your team, reach out directly.
 
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B4B)](https://linkedin.com/in/alven-yuka-610b78174)
 &nbsp;
