@@ -1,111 +1,123 @@
-<!--
-  ALVEN YUKA — GitHub profile README
-  Replaces the previous capsule-render / tokyonight template with
-  something that lives on its own. No GIF rainbows, no profile-views
-  badges, no streak cards, no "What I Build / What I Bring" headers.
--->
+<!-- ALVEN YUKA — GITHUB PROFILE README -->
 
-### `alven yuka`
+<div align="center">
 
-```
-fraud detection · credit risk · portfolio analytics
-nairobi → remote · finance ops → ml engineering
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4B,50:1565C0,100:E65C00&height=220&section=header&text=Alven%20Yuka&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20%7C%20Risk%20Analyst&descAlignY=62&descSize=20&descFontColor=FFD580&animation=fadeIn" width="100%"/>
 
-> I learned the cost of a model that can't survive a compliance review the
-> same way most people learn it: the wrong way. Three years inside
-> development-finance operations — 500+ multi-currency vouchers a month,
-> 12 donor-funded programmes, two clean audit cycles — taught me that
-> the audit-trail is the product. Now I build the same way.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven%20Yuka-1565C0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B4B)](https://linkedin.com/in/alven-yuka-610b78174)
+[![Email](https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-E65C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1B4B)](mailto:alvenyuka2@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/alvenyuka?style=for-the-badge&logo=github&color=1565C0&labelColor=0D1B4B&logoColor=white)](https://github.com/alvenyuka)
+[![Profile Views](https://komarev.com/ghpvc/?username=alvenyuka&style=for-the-badge&color=E65C00&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/alvenyuka)
 
-#### one fraud-detection notebook, broken down honestly
+</div>
 
-```
-                  ┌──────────────┐
-   PaySim 6.36M ─►│  scoring     │─► 99.11% precision @ 96.88% recall
-   step-time     │  pipeline    │   24 false positives in 132K
-   split (66/34) └──────────────┘   Brier = 0.0005
-                       ▲
-                  errorBalanceOrig
-                  (engineered from
-                   accounting identity)
-                  carries ~85% of
-                  predictive power
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Time-based split, not random — fraud models predict the future from the
-past. Random splits leak future state and inflate PR-AUC dishonestly.
+## Who I Am
 
-The PR-AUC = 1.000 on Random Forest is not a flex — it's what happens when
-an engineered feature deterministically encodes the fraud signature in a
-synthetic dataset. The honest read is: **the feature engineering solved the
-problem; the model choice barely mattered**. That's a finding, not a brag.
+I spent three years inside development finance operations processing 500+ multi-currency vouchers a month, supporting 12 donor-funded programmes, and navigating two audit cycles without a single finding. That work taught me something most data scientists learn the hard way: the gap between a model that runs and a model that a risk desk actually trusts is enormous.
 
-→ [`Fraud-Detection-System`](https://github.com/alvenyuka/Fraud-Detection-System)
-&nbsp;·&nbsp; PaySim · scikit-learn · XGBoost · LightGBM · imbalanced-learn · SHAP
+That gap is what I work to close. I build ML systems for financial problems — fraud detection, credit risk, portfolio analytics — with the compliance layer built in from the start, not bolted on at the end.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## What I Build
+
+### 🔍 Fraud Detection System
+**PaySim · Python · XGBoost · Random Forest · SHAP**
+
+Trained on 6.36M synthetic mobile-money transactions on a time-based split — fraud models predict the future from the past, so random splits leak future state and inflate metrics dishonestly. The hard part was not the model — it was making the outputs explainable enough for a KYC/AML audit trail. **99.11% precision at 96.88% recall** on a 132K held-out window, calibrated to Brier 0.0005, with permutation importance showing the engineered `errorBalanceOrig` feature carries ~85% of predictive power.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-Fraud%20Detection-1565C0?style=flat-square&logo=github&logoColor=white&labelColor=0D1B4B)](https://github.com/alvenyuka/Fraud-Detection-System)
 
 ---
 
-#### one Excel workbook that I'd defend in front of a CFA charterholder
+### 📈 Stock Portfolio Tracker and Analytics Engine
+**Excel 365 · CAPM · VaR · CVaR · Sharpe · Sortino · Calmar · Black–Litterman**
 
-```
-$303,680 portfolio  ·  16 stocks  ·  10 industries  ·  7 years
-Sharpe 0.47  ·  Sortino 3.10  ·  Beta 1.47  ·  CAGR 14.89%
-```
+Built natively in Excel 365 — STOCKHISTORY, linked Stocks data type, dynamic arrays, no VBA. Covers 16 stocks across 10 industries over 7 years, with drawdown analysis, risk-adjusted return attribution, parametric / historical / Monte Carlo VaR, Cornish-Fisher VaR, tax-aware lot matching under IRS §1222, Black-Litterman optimisation, and a 23-test Validation sheet that has to PASS before the dashboard renders. CFA Level I–III methodology end-to-end.
 
-Not a Python notebook dressed up in an Excel skin — built natively in
-Excel 365. STOCKHISTORY, linked Stocks data type, dynamic arrays. No VBA.
-Black–Litterman optimisation, Cornish–Fisher VaR, parametric / historical /
-Monte Carlo VaR, tax-aware lot matching with MAXIFS for ST/LT
-classification under IRS §1222, and a 23-test Validation sheet that has
-to PASS before the dashboard renders.
-
-The non-obvious thing: a Sharpe of 0.47 against a Sortino of 3.10 is a
-right-skew tell. Most of the volatility is upside — exactly the kind of
-distribution where Sharpe under-rewards and Sortino is the honest read.
-
-→ [`Stock-Portfolio-Tracker-Analytics-Engine`](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
-&nbsp;·&nbsp; Excel 365 · Black–Litterman · CAPM · VaR/CVaR · CFA L1–L3
+[![Repo](https://img.shields.io/badge/View%20Repo-Portfolio%20Analytics-1565C0?style=flat-square&logo=github&logoColor=white&labelColor=0D1B4B)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
 
 ---
 
-#### one Australian tax model that pays for itself in year one
+### 🏡 SuperSmart Mortgage Strategy Model
+**Excel 365 · DAX · Australian Tax Law · Offset Structuring**
 
-```
-salary sacrifice  ──►  offset account  ──►  annual sweep
-   (15% vs 47%)         (interest drag)        (principal kill)
+An Australian tax-optimised mortgage repayment model for dual-persona households. Coordinates salary sacrifice (15% vs 47% marginal), offset account accumulation, and annual principal sweeps across 30 years. Models concessional cap carry-forward, Division 293 surcharge, spousal transfers, and Stage 3 brackets. 11 sheets, every output formula-driven; 28 KPIs ship as Power BI–ready DAX measures. Demonstrates how financial modelling translates directly from operations into strategy.
 
-stage 3 brackets · concessional cap carry-forward · Div 293 · spousal
-transfers · monthly granularity over 30 years
-```
+[![Repo](https://img.shields.io/badge/View%20Repo-Mortgage%20Model-1565C0?style=flat-square&logo=github&logoColor=white&labelColor=0D1B4B)](https://github.com/alvenyuka/SuperSmart-Mortgage-Model)
 
-A side-by-side comparison of three repayment strategies (none / extra
-after-tax / SuperSmart) for a dual-persona household. Every output is
-formula-driven across 11 sheets — change the interest rate on the Input
-sheet and the Dashboard, Loan, Offset, and YearlySummary all recalculate.
-28 KPIs ship as Power BI–ready DAX measures in column D.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-→ [`SuperSmart-Mortgage-Model`](https://github.com/alvenyuka/SuperSmart-Mortgage-Model)
-&nbsp;·&nbsp; Excel 365 · DAX · ATO 2026–27 brackets · concessional cap modelling
+## What I Bring to a Team
 
----
+| The Problem | My Answer |
+|:---|:---|
+| Models that cannot survive a compliance review | SHAP explanations per prediction — built for KYC/AML reporting |
+| Engineers who do not speak finance | 3 years on the operations side — VaR, CVaR, IFRS, SAP S/4HANA |
+| Time-leaked validation that breaks in production | Time-based splits, walk-forward evaluation, calibrated probabilities |
+| Analysts without international context | 12 donor-funded programmes across multiple currencies and jurisdictions |
 
-#### what I'm wrong about (publicly)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-So you don't have to find out the hard way in an interview:
+## 🛠️ Tech Stack
 
-- **PaySim is a toy.** Real mobile-money fraud has agent-tier signals, account-age, and graph features. PaySim collapses all three. The fraud detection results are a methodology demo, not a deployment claim.
-- **Sharpe 0.47 is low** in absolute terms. The portfolio is concentrated and high-beta (1.47). It's a learning portfolio, not a benchmark proposal.
-- **Excel ≠ production.** The mortgage model is decision-support for a household, not a banking system. It's auditable; it's not deployable.
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3.10+-1565C0?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1B4B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-E65C00?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1B4B)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boost-E65C00?style=for-the-badge&labelColor=0D1B4B)
+![LightGBM](https://img.shields.io/badge/LightGBM-Ensemble-1565C0?style=for-the-badge&labelColor=0D1B4B)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-E65C00?style=for-the-badge&labelColor=0D1B4B)
+![Pandas](https://img.shields.io/badge/Pandas-Wrangling-1565C0?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1B4B)
+![NumPy](https://img.shields.io/badge/NumPy-Numerics-1565C0?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1B4B)
+![Excel](https://img.shields.io/badge/Excel%20365-Advanced-1565C0?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D1B4B)
+![PowerBI](https://img.shields.io/badge/Power%20BI-DAX-E65C00?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0D1B4B)
+![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA-ERP-E65C00?style=for-the-badge&logo=sap&logoColor=white&labelColor=0D1B4B)
 
-#### what I'm hunting for
+</div>
 
-Fraud / AML / credit risk roles where the ML team works inside a regulated
-function — not adjacent to one. Bonus points if your stack already has
-SHAP in production and a quarterly model-risk review on the calendar.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-`alvenyuka2@gmail.com` &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/alven-yuka-610b78174) &nbsp;·&nbsp; Nairobi (remote-friendly across EU/AU/US)
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&icon_color=E65C00&text_color=FFFFFF&border_radius=10" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&text_color=FFFFFF&border_radius=10" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0D1B4B&ring=E65C00&fire=FFD580&currStreakLabel=E65C00" height="165"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚧 Currently Working On
+
+- Wrapping the Fraud Detection System in a FastAPI service with a `/score` endpoint and Dockerfile, so the notebook becomes a deployable artefact
+- Building a credit scoring pipeline using open banking data structures
+- Documenting the full FinTech ML stack as a reference for practitioners coming from finance operations
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Open To
+
+I am focused on **fraud detection and credit risk roles in FinTech and development finance** — specifically teams building ML-driven fraud intelligence systems, credit scoring pipelines, or AML/KYC compliance tooling where explainability and audit-readiness matter as much as model performance.
+
+If that sounds like your team, reach out directly.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B4B)](https://linkedin.com/in/alven-yuka-610b78174)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-E65C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1B4B)](mailto:alvenyuka2@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E65C00,50:1565C0,100:0D1B4B&height=120&section=footer" width="100%"/>
