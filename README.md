@@ -87,26 +87,20 @@ An Australian tax-optimised mortgage repayment model for dual-persona households
 <div align="center">
 
 <a href="https://github.com/alvenyuka">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=alvenyuka&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&icon_color=E65C00&text_color=FFFFFF&border_radius=12&cache_seconds=86400" alt="GitHub stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/alvenyuka">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvenyuka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1B4B&title_color=FFD580&text_color=FFFFFF&border_radius=12&cache_seconds=86400" alt="Top languages"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvenyuka&theme=tokyo-night&bg_color=0D1B4B&color=FFD580&line=E65C00&point=FFFFFF&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20%E2%80%94%20last%2031%20days&days=31" alt="Contribution activity graph"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/alvenyuka">
-  <img height="175" src="https://streak-stats.demolab.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0D1B4B&ring=E65C00&fire=FFD580&currStreakLabel=FFD580&dates=FFFFFF&sideLabels=FFD580&sideNums=FFFFFF&stroke=E65C00&border_radius=12" alt="Streak stats"/>
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=alvenyuka&theme=tokyonight&hide_border=true&background=0D1B4B&ring=E65C00&fire=FFD580&currStreakLabel=E65C00" alt="Streak stats"/>
 </a>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvenyuka&theme=tokyo-night&bg_color=0D1B4B&color=FFD580&line=E65C00&point=FFFFFF&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity%20—%20last%2031%20days&days=31" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=alvenyuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+<a href="https://github.com/alvenyuka">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=alvenyuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+</a>
 
 </div>
 
