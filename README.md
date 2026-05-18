@@ -1,7 +1,7 @@
-<h1 align="center">Alven Yuka</h1>
+![Alven Yuka - Finance and Data Science, Nairobi](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:7c3aed&height=220&section=header&text=Alven%20Yuka&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Finance%20%C3%97%20Data%20Science%20%C2%B7%20Nairobi&descSize=22&descAlignY=56)
 
 <p align="center">
-  <i>Nairobi. CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
+  <i>CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
   Moving from finance operations into ML for fraud and credit risk.</i>
 </p>
 
