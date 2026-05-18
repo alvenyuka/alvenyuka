@@ -1,8 +1,15 @@
-# Alven Yuka
+<h1 align="center">Alven Yuka</h1>
 
-*Nairobi. CPA Finalist (Kenya), awaiting ICPAK membership. Moving from finance operations into ML for fraud and credit risk.*
+<p align="center">
+  <i>Nairobi. CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
+  Moving from finance operations into ML for fraud and credit risk.</i>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) · alvenyuka2@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/alven-yuka-610b78174/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:alvenyuka2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/alvenyuka"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@alvenyuka-181717?logo=github"></a>
+</p>
 
 ---
 
@@ -17,17 +24,17 @@ This profile is where I publish the work I'm doing to build out the technical si
 ## Projects
 
 ### Fraud Detection System
-[github.com/alvenyuka/Fraud-Detection-System](https://github.com/alvenyuka/Fraud-Detection-System) · Python, XGBoost, SHAP
+[github.com/alvenyuka/Fraud-Detection-System](https://github.com/alvenyuka/Fraud-Detection-System) - Python, XGBoost, SHAP
 
 Fraud classifier trained on PaySim (6.36M synthetic mobile-money transactions). I used a time-based train/test split rather than a random one, because random splits leak future state in fraud problems. The deployable model is XGBoost at 99.11% precision and 96.88% recall on a 132K-row held-out window, calibrated to a Brier score of 0.0005. The notebook walks through the feature engineering (the balance-discrepancy features carry most of the signal) and operating-point selection at 99% precision.
 
 ### Stock Portfolio Tracker & Analytics Engine
-[github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) · Excel 365
+[github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) - Excel 365
 
-A paper portfolio of 16 stocks built in Excel 365 as a place to work through quantitative finance methods on a plausible set of holdings. The transactions are hypothetical, not from a real brokerage account. Uses `STOCKHISTORY` and dynamic arrays for live data; no VBA. Coverage includes CAPM and factor attribution, parametric and historical VaR, tax-aware lot matching under IRS §1222, and a Black-Litterman optimisation panel. A validation sheet runs 23 integrity checks across the workbook before any dashboard will render.
+A paper portfolio of 16 stocks built in Excel 365 as a place to work through quantitative finance methods on a plausible set of holdings. The transactions are hypothetical, not from a real brokerage account. Uses STOCKHISTORY and dynamic arrays for live data; no VBA. Coverage includes CAPM and factor attribution, parametric and historical VaR, tax-aware lot matching under IRS section 1222, and a Black-Litterman optimisation panel. A validation sheet runs 23 integrity checks across the workbook before any dashboard will render.
 
 ### Financial Analyst Portfolio
-[github.com/alvenyuka/Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) · Excel
+[github.com/alvenyuka/Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) - Excel
 
 Company financial analyses built from primary-source filings: three-statement models, DCF valuations, scenario toggles. Each workbook has a validation tab that ties every historical line back to the filing it was sourced from. First model is Apple.
 
@@ -45,4 +52,4 @@ Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP), SQL, Excel 365, Power BI
 
 Fraud detection, credit risk, or analytics roles where the model risk function matters. Nairobi-based; open to remote.
 
-alvenyuka2@gmail.com · [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/)
+alvenyuka2@gmail.com - [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/)
