@@ -1,4 +1,4 @@
-![Alven Yuka - Data Scientist, Development Finance, Fraud Detection, Risk Analyst](https://capsule-render.vercel.app/api?type=waving&color=0:0a1f4a,100:c2410c&height=240&section=header&text=Alven%20Yuka&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20%7C%20Risk%20Analyst&descSize=18&descAlignY=58&descAlign=50)
+![Alven Yuka - Data Scientist, Development Finance, Fraud Detection, Risk Analyst](banner.svg)
 
 <p align="center">
   <i>CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
