@@ -1,4 +1,4 @@
-![Alven Yuka - Finance and Data Science, Nairobi](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:7c3aed&height=220&section=header&text=Alven%20Yuka&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Finance%20%C3%97%20Data%20Science%20%C2%B7%20Nairobi&descSize=22&descAlignY=56)
+![Alven Yuka - Data Scientist, Development Finance, Fraud Detection, Risk Analyst](https://capsule-render.vercel.app/api?type=waving&color=0:0a1f4a,100:c2410c&height=240&section=header&text=Alven%20Yuka&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Development%20Finance%20%7C%20Fraud%20Detection%20%7C%20Risk%20Analyst&descSize=18&descAlignY=58&descAlign=50)
 
 <p align="center">
   <i>CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
