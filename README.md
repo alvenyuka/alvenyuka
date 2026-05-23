@@ -1,8 +1,8 @@
 ![Alven Yuka - Data Scientist, Development Finance, Fraud Detection, Risk Analyst](banner.svg)
 
 <p align="center">
-  <i>CPA Finalist (Kenya), awaiting ICPAK membership.<br/>
-  Moving from finance operations into ML for fraud and credit risk.</i>
+  <i>CPA Finalist (Kenya) .<br/>
+  Where Numbers speak and algorithms lead.</i>
 </p>
 
 <p align="center">
