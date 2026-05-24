@@ -1,60 +1,45 @@
-<div align="center">
+<!-- Profile README for github.com/alvenyuka/alvenyuka -->
 
-# Alven Yuka
+<h1 align="center">Alven Yuka</h1>
 
-**Finance professional moving into financial data science.**
+<p align="center">
+  <strong>Finance professional moving into financial data science.</strong><br>
+  CPA Finalist (Kenya) &middot; Three years donor-funded finance at GIZ &middot; Nairobi &middot; Open to remote
+</p>
 
-Three years in donor-funded finance at GIZ. Now building Power BI models, ML for fraud detection, and quant analytics. CPA Finalist (Kenya).
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvenyuka"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-alvenyuka-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:alvenyuka2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Nairobi-Open%20to%20remote-1f6feb">
+  <img alt="Status" src="https://img.shields.io/badge/Open%20to%20work-fraud%20%2F%20credit%20risk%20%2F%20analytics-2ea44f">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174) · alvenyuka2@gmail.com · Nairobi · open to remote
-
-</div>
-
----
-
-## Background
-
-For three years I worked the operations side of donor-funded finance: posting multi-currency vouchers, supporting program managers across multiple jurisdictions, and getting through annual audits with no material findings. That meant a lot of time inside the controls layer of finance, which turned out to be a useful place to be when I started building ML models. Most of the work in production fraud or credit risk is the part that lets a risk reviewer sign off on the output, not the part that picks the algorithm.
-
-This profile is where I publish the work I'm doing to build out the technical side.
+<p align="center">
+  <img alt="Python"        src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="pandas"        src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">
+  <img alt="scikit-learn"  src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img alt="XGBoost"       src="https://img.shields.io/badge/XGBoost-EB6E2D">
+  <img alt="LightGBM"      src="https://img.shields.io/badge/LightGBM-02569B">
+  <img alt="SHAP"          src="https://img.shields.io/badge/SHAP-8A2BE2">
+  <img alt="SQL"           src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white">
+  <img alt="Excel 365"     src="https://img.shields.io/badge/Excel%20365-217346?logo=microsoftexcel&logoColor=white">
+  <img alt="Power BI"      src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+  <img alt="Jupyter"       src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+</p>
 
 ---
 
 ## Featured projects
 
-### [Fraud-Detection-System](https://github.com/alvenyuka/Fraud-Detection-System)
-`Python` · `XGBoost` · `SHAP` · `Jupyter`
-
-Mobile-money fraud classifier trained on PaySim (6.36M transactions). The deployable XGBoost model runs at **99.11% precision and 96.88% recall** on a 132K-row time-based holdout, calibrated to a Brier score of 0.0005. The README walks through the balance-discrepancy feature engineering (which carries ~85% of the predictive signal), the operating-point selection at 99% precision, and SHAP attribution.
-
-### [Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
-`Excel 365` · `STOCKHISTORY` · `dynamic arrays`
-
-A 16-stock paper portfolio built in Excel 365 to work through quantitative finance methods on a plausible set of holdings. Live data via STOCKHISTORY, no VBA. Coverage: CAPM and factor attribution, parametric and historical VaR, tax-aware lot matching under IRS section 1222, Black-Litterman optimisation. A validation sheet runs 23 integrity checks across the workbook before any dashboard renders.
-
-### [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst)
-`Excel` · `DCF` · `three-statement modelling`
-
-Company financial analyses built from primary-source filings. Three-statement models, DCF valuations, scenario toggles. Each workbook has a validation tab that ties every historical line back to the filing it was sourced from. First model is Apple.
+| Project | Stack | Headline |
+|---|---|---|
+| [Fraud-Detection-System](https://github.com/alvenyuka/Fraud-Detection-System) | Python &middot; XGBoost &middot; SHAP | **99.11% precision / 96.88% recall** on PaySim, calibrated to Brier 0.0005 |
+| [Stock-Portfolio-Tracker](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Excel 365 &middot; STOCKHISTORY | 16-stock portfolio &middot; CAPM &middot; VaR &middot; Black&ndash;Litterman &middot; 23-check validation |
+| [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Excel &middot; DCF | Three-statement models tied to primary-source filings &middot; first: Apple |
 
 ---
 
-## What I bring
-
-Three years in finance operations gives me working language for the constraints models hit when they touch money. On the finance side I know VaR and CVaR, IFRS accounting conventions, SAP S/4HANA workflows, and the kind of evidence trail auditors look for. On the ML side I default to time-based validation, calibrated probabilities, and SHAP-level explanations per prediction.
-
-## Stack
-
-Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP) · SQL · Excel 365 · Power BI / DAX · Jupyter
-
-## Open to work
-
-Fraud detection, credit risk, or analytics roles where the model risk function matters. Nairobi-based; open to remote.
-
----
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174) · alvenyuka2@gmail.com
-
-</div>
+<p align="center">
+  Fraud detection &middot; credit risk &middot; analytics &mdash; where the model risk function matters.<br>
+  📫 <a href="https://www.linkedin.com/in/alvenyuka"><strong>LinkedIn</strong></a> &middot; <a href="mailto:alvenyuka2@gmail.com"><strong>alvenyuka2@gmail.com</strong></a>
+</p>
