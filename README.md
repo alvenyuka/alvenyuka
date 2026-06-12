@@ -1,52 +1,53 @@
 # Hi, I'm Alven Yuka 👋
 
-**Financial Data Analyst** based in Nairobi — I build analytics systems that turn raw financial data into actionable insight.
+**Financial Data Analyst & Data Scientist** based in Nairobi — I build analytics systems that turn raw financial data into actionable insight.
 
-I specialise in **portfolio analytics, risk modelling, and financial dashboards**, with hands-on experience implementing CFA-level metrics (VaR, Sharpe/Sortino/Treynor ratios, CAPM, CVaR) in production-grade tools.
+I work across the full analytics stack: from **Python-based ML models** (XGBoost, scikit-learn) and **CFA-level financial modelling** (VaR, CAPM, CVaR, Sharpe/Sortino ratios) to production-grade Excel dashboards and DCF valuation workbooks.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Analytics & Data**
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+**Analytics & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
-**Finance & Domain**
+**ML & Finance**
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-0A66C2?style=flat)
 ![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-DC143C?style=flat)
-![Portfolio Management](https://img.shields.io/badge/Portfolio_Management-228B22?style=flat)
-![FinTech](https://img.shields.io/badge/FinTech-6A0DAD?style=flat)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🤖 [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)
+Mobile money fraud classifier on the PaySim dataset (6.36M transactions). XGBoost at **99.11% precision / 96.88% recall** on a 132K time-based holdout. Implements balance-discrepancy features, calibrated probabilities, and SHAP explainability.
+> `Python` · `XGBoost` · `scikit-learn` · `Jupyter` · `Imbalanced Learning` · `SHAP`
+
+---
+
 ### 📊 [Stock Portfolio Tracker & Analytics Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
-A professional-grade portfolio management system with live market data, CFA-level risk decomposition (VaR, CVaR, CAPM, Jensen's Alpha), automated rebalancing, and a 16-test validation suite. Built in Excel 365 with dynamic arrays and linked data types.
-> `Excel 365` · `Financial Modelling` · `Risk Analytics` · `Portfolio Management` · `Dashboard Design`
+Professional-grade portfolio management system with live market data, CFA-level risk decomposition (VaR, CVaR, CAPM, Jensen's Alpha), Black-Litterman optimisation, automated rebalancing, and a 23-test validation suite.
+> `Excel 365` · `Financial Modelling` · `Risk Analytics` · `Portfolio Management`
 
 ---
 
-### 🏠 [SuperSmart Mortgage Model](https://github.com/alvenyuka/SuperSmart-Morgage-Model)
-An Australian tax-optimised mortgage repayment strategy model — salary sacrifice to superannuation, offset account mechanics, and annual principal sweep interactions.
-> `Excel` · `Financial Modelling` · `Tax Optimisation` · `Real Estate Finance`
+### 💼 [Financial Analyst Workbooks](https://github.com/alvenyuka/Financial-Analyst)
+Company financial analyses built from primary-source filings: three-statement models, DCF valuations, and scenario toggles. Each workbook has a validation tab that ties every historical line to its source.
+> `Excel` · `DCF Valuation` · `Fundamental Analysis` · `Equity Research`
 
 ---
 
-### 🛒 [E-Commerce Sales Analysis](https://github.com/alvenyuka/E-Commerce-Sales-Analysis)
-Comprehensive e-commerce sales analysis covering revenue performance, profitability, customer behaviour, and geographic trends.
-> `Excel` · `Data Analysis` · `Business Intelligence` · `Sales Analytics`
+## 📈 Currently Building
 
----
-
-## 📈 What I'm Working On
-
-- 🐍 Expanding into Python-based financial analysis (pandas, NumPy, matplotlib)
-- 📊 Building Power BI dashboards for financial KPI reporting
-- 🗄️ Adding SQL data pipelines to my analytics workflow
+- 🗄️ SQL-based financial data pipelines for portfolio analytics
+- 📊 Power BI dashboards for financial KPI reporting
+- 🧠 Expanding ML work into credit risk and time-series forecasting
 
 ---
 
@@ -55,4 +56,4 @@ Comprehensive e-commerce sales analysis covering revenue performance, profitabil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alven-yuka-610b78174/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvenimmanwel79@gmail.com)
 
-> **Open to:** Data Analyst · Financial Analyst · Business Intelligence Analyst · FinTech Analytics roles
+> **Open to:** Data Analyst · Financial Data Scientist · Business Intelligence Analyst · FinTech Analytics roles
