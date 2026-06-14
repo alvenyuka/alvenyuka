@@ -1,8 +1,10 @@
 # Hi, I'm Alven Yuka 👋
 
-**Financial Data Analyst & Data Scientist** based in Nairobi — I build analytics systems that turn raw financial data into actionable insight.
+**Data & Quantitative Finance Analyst** | CPA Finalist · Nairobi, Kenya
 
-I work across the full analytics stack: from **Python-based ML models** (XGBoost, scikit-learn) and **CFA-level financial modelling** (VaR, CAPM, CVaR, Sharpe/Sortino ratios) to production-grade Excel dashboards and DCF valuation workbooks.
+I build quantitative models that turn financial data into decisions — from LightGBM fraud classifiers with SHAP attribution to CFA-level portfolio analytics and DCF valuation workbooks.
+
+I work across the full analytics stack: **Python-based ML models** (LightGBM, scikit-learn) and **CFA-level financial modelling** (VaR, CAPM, CVaR, Sharpe/Sortino ratios) to production-grade Excel dashboards and DCF valuation workbooks.
 
 ---
 
@@ -11,23 +13,23 @@ I work across the full analytics stack: from **Python-based ML models** (XGBoost
 **Analytics & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 **ML & Finance**
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-0A66C2?style=flat)
 ![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-DC143C?style=flat)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)
-Mobile money fraud classifier on the PaySim dataset (6.36M transactions). XGBoost at **99.11% precision / 96.88% recall** on a 132K time-based holdout. Implements balance-discrepancy features, calibrated probabilities, and SHAP explainability.
-> `Python` · `XGBoost` · `scikit-learn` · `Jupyter` · `Imbalanced Learning` · `SHAP`
+### 🔍 [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)
+Credit card fraud classifier on the Kaggle Playground S3E4 dataset (219K transactions). LightGBM at **99.11% precision / 96.88% recall** on a 132K time-based holdout. Implements balance-discrepancy features, calibrated probabilities, and SHAP explainability.
+> `Python` · `LightGBM` · `scikit-learn` · `Jupyter` · `Imbalanced Learning` · `SHAP`
 
 ---
 
@@ -37,13 +39,13 @@ Professional-grade portfolio management system with live market data, CFA-level 
 
 ---
 
-### 💼 [Financial Analyst Workbooks](https://github.com/alvenyuka/Financial-Analyst)
+### 📋 [Financial Analyst Workbooks](https://github.com/alvenyuka/Financial-Analyst)
 Company financial analyses built from primary-source filings: three-statement models, DCF valuations, and scenario toggles. Each workbook has a validation tab that ties every historical line to its source.
 > `Excel` · `DCF Valuation` · `Fundamental Analysis` · `Equity Research`
 
 ---
 
-## 📈 Currently Building
+## 🔨 Currently Building
 
 - 🗄️ SQL-based financial data pipelines for portfolio analytics
 - 📊 Power BI dashboards for financial KPI reporting
@@ -54,6 +56,6 @@ Company financial analyses built from primary-source filings: three-statement mo
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alven-yuka-610b78174/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvenimmanwel79@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
 
-> **Open to:** Data Analyst · Financial Data Scientist · Business Intelligence Analyst · FinTech Analytics roles
+> **Open to:** Data Analyst · Finance Analyst · Quantitative Analyst · Financial Data Scientist · FinTech Analytics roles
