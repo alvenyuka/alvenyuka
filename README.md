@@ -1,61 +1,74 @@
-# Hi, I'm Alven Yuka 👋
+<h1 align="left">Hi, I'm Alven Yuka 👋</h1>
 
-**Data & Quantitative Finance Analyst** | CPA Finalist · Nairobi, Kenya
+<p align="left">
+  <strong>CPA Finalist (Kenya) turned data scientist — 3 years inside development-finance operations, now building the credit-risk and fraud models that sit downstream of that work.</strong>
+</p>
 
-I build quantitative models that turn financial data into decisions — from LightGBM fraud classifiers with SHAP attribution to CFA-level portfolio analytics and DCF valuation workbooks.
+<p align="left">
+  I spent three years at GIZ managing receivables, reconciliations, and MI reporting for a development-finance portfolio — the kind of work that teaches you exactly where financial controls break and what a risk team actually needs from a model. I'm now building that side too: credit scorecards, fraud classifiers, and portfolio analytics in Python, validated the way an auditor would validate them.
+</p>
+<br>
 
-I work across the full analytics stack: **Python-based ML models** (LightGBM, scikit-learn) and **CFA-level financial modelling** (VaR, CAPM, CVaR, Sharpe/Sortino ratios) to production-grade Excel dashboards and DCF valuation workbooks.
-
----
-
-## 🛠 Tech Stack
-
-**Analytics & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-
-**ML & Finance**
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Financial Modelling](https://img.shields.io/badge/Financial_Modelling-0A66C2?style=flat)
-![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-DC143C?style=flat)
+<p align="left">
+  <a href="https://www.linkedin.com/in/alven-yuka-610b78174/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alvenyuka2@gmail.com"><img src="https://img.shields.io/badge/Email-alvenyuka2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/alvenyuka/Fraud-Detection-System"><img src="https://img.shields.io/badge/Fraud%20Detection-Case%20Study-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Fraud Detection case study"></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Start Here
 
-### 🔍 [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)
-Credit card fraud classifier on the Kaggle Playground S3E4 dataset (219K transactions). LightGBM at **99.11% precision / 96.88% recall** on a 132K time-based holdout. Implements balance-discrepancy features, calibrated probabilities, and SHAP explainability.
-> `Python` · `LightGBM` · `scikit-learn` · `Jupyter` · `Imbalanced Learning` · `SHAP`
-
----
-
-### 📊 [Stock Portfolio Tracker & Analytics Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
-Professional-grade portfolio management system with live market data, CFA-level risk decomposition (VaR, CVaR, CAPM, Jensen's Alpha), Black-Litterman optimisation, automated rebalancing, and a 23-test validation suite.
-> `Excel 365` · `Financial Modelling` · `Risk Analytics` · `Portfolio Management`
+| Resource | Why look here |
+| --- | --- |
+| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | The project to actually judge me on. XGBoost fraud classifier on 6.3M PaySim mobile-money transactions, with a training pipeline that literally could not run until I found and fixed the bug — documented in the commit history, not hidden. |
+| [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Three-statement models and DCF valuations built from primary-source SEC filings, with a validation tab tying every historical line back to source. |
+| [Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | CFA-level risk analytics in Excel — VaR (parametric/historical/Monte Carlo), CVaR, Black-Litterman optimisation, a 23-test validation suite. |
+| [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) | Full work history: GIZ finance operations, CPA, McKinsey Forward. |
 
 ---
 
-### 📋 [Financial Analyst Workbooks](https://github.com/alvenyuka/Financial-Analyst)
-Company financial analyses built from primary-source filings: three-statement models, DCF valuations, and scenario toggles. Each workbook has a validation tab that ties every historical line to its source.
-> `Excel` · `DCF Valuation` · `Fundamental Analysis` · `Equity Research`
+## Background
+
+**Current role:** Finance Operations Specialist, GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) — Nairobi · 3 years in development-finance operations: AR/receivables management, reconciliation, and MI reporting dashboards built in SQL and Excel for a development-finance portfolio.
+
+**Credentials:** CPA Finalist, Kenya (Strathmore University — awaiting ICPAK membership) · BSc Finance (The Co-operative University of Kenya) · Data Science, ALX Africa (in progress) · McKinsey Forward Program.
+
+The combination I bring isn't "another data scientist" — it's someone who has sat inside the finance-operations function a credit or fraud model actually has to serve, and who can now build that model too.
 
 ---
 
-## 🔨 Currently Building
+## What I'm Building
 
-- 🗄️ SQL-based financial data pipelines for portfolio analytics
-- 📊 Power BI dashboards for financial KPI reporting
-- 🧠 Expanding ML work into credit risk and time-series forecasting
+| Project | What it does | Status |
+| --- | --- | --- |
+| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions — balance-discrepancy feature engineering, isotonic calibration on a held-out split, 100% precision / 88.6% recall at the deployed operating threshold | Public |
+| [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Company financial models built from primary-source filings — three-statement models, DCF valuation, scenario toggles, source-linked validation tabs | Public |
+| [Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Portfolio risk/performance analytics engine in Excel 365 — CAPM, VaR/CVaR, Sharpe/Sortino/Calmar, Black-Litterman, tax-aware rebalancing | Public |
+| Credit risk & alternative scoring portfolio | WoE/IV scorecards, SACCO stress testing, and DFI-focused credit modelling — the applied side of the CPA + data-science combination | Building next |
 
 ---
 
-## 📫 Let's Connect
+## Technical Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alven-yuka-610b78174/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvenyuka2@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" alt="LightGBM">
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP">
+</p>
 
-> **Open to:** Data Analyst · Finance Analyst · Quantitative Analyst · Financial Data Scientist · FinTech Analytics roles
+Credit risk: WoE/IV, scorecard development, GINI/KS/PSI, IFRS 9 ECL. Fraud: imbalanced classification, cost-sensitive thresholding, PR-AUC-first evaluation. Finance: GAAP/IFRS, 3-statement modelling, DCF valuation.
+
+---
+
+## Let's Work Together
+
+Open to Credit Risk Analyst, Data Analyst, and Financial Data Scientist roles — particularly where the finance-domain depth and the modelling capability both matter.
+
+<a href="mailto:alvenyuka2@gmail.com"><img src="https://img.shields.io/badge/Reach%20Me-alvenyuka2%40gmail.com-16A34A?style=for-the-badge" alt="Contact"></a>
