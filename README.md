@@ -30,9 +30,9 @@
 
 ## Background
 
-**Current role:** Finance Operations Specialist, GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) — Nairobi · 3 years in development-finance operations: AR/receivables management, reconciliation, and MI reporting dashboards built in SQL and Excel for a development-finance portfolio.
+**Current role:** Finance Specialist, GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) — Nairobi · 3 years in development-finance operations: AR/receivables management, reconciliation, and MI reporting dashboards built in SQL and Excel for a development-finance portfolio.
 
-**Credentials:** CPA Finalist, Kenya (Strathmore University — awaiting ICPAK membership) · BSc Finance (The Co-operative University of Kenya) · Data Science, ALX Africa (in progress) · McKinsey Forward Program.
+**Credentials:** CPA Finalist, Kenya · BSc Finance (The Co-operative University of Kenya) · Data Science, ExploreAI Academy (completed March 2026) · McKinsey Forward Program.
 
 The combination I bring isn't "another data scientist" — it's someone who has sat inside the finance-operations function a credit or fraud model actually has to serve, and who can now build that model too.
 
@@ -55,7 +55,7 @@ The combination I bring isn't "another data scientist" — it's someone who has 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" alt="LightGBM">
+  <img src="https://img.shields.io/badge/XGBoost-0055AA?style=flat-square" alt="XGBoost"> <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" alt="LightGBM">
   <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square" alt="SHAP">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
