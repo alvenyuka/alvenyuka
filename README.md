@@ -42,7 +42,7 @@ The combination I bring isn't "another data scientist" — it's someone who has 
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions — balance-discrepancy feature engineering, isotonic calibration on a held-out split, 100% precision / 88.6% recall at the deployed operating threshold | Public |
+| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions — balance-discrepancy feature engineering, isotonic calibration on a held-out split, 99.85% precision / 99.56% recall at the deployed operating threshold | Public |
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Company financial models built from primary-source filings — three-statement models, DCF valuation, scenario toggles, source-linked validation tabs | Public |
 | [Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Portfolio risk/performance analytics engine in Excel 365 — CAPM, VaR/CVaR, Sharpe/Sortino/Calmar, Black-Litterman, tax-aware rebalancing | Public |
 | Credit risk & alternative scoring portfolio | WoE/IV scorecards, SACCO stress testing, and DFI-focused credit modelling — the applied side of the CPA + data-science combination | Building next |
