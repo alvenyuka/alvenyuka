@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Alven Yuka 👋</h1>
 
 <p align="left">
-  <strong>CPA Finalist (Kenya) turned data scientist — 3 years in development-finance operations at GIZ, now building the credit-risk and fraud models that sit downstream of that work.</strong>
+  <strong>CPA Finalist working at the intersection of finance and data science, building the credit-risk and fraud models that sit downstream of development-finance operations at GIZ.</strong>
 </p>
 
 <p align="left">
@@ -15,9 +15,10 @@
 
 | Project | What it does | Result |
 | --- | --- | --- |
-| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions — balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall |
+| **[Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard)** ([live](https://credit-risk-alven.vercel.app)) | From-scratch WoE/IV and logistic regression validated line-for-line against scikit-learn on 307,511 real Home Credit applicants, plus a LightGBM benchmark | 0.7774 AUC (LightGBM), 0.9985 correlation vs sklearn |
+| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions: balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall |
 | **[Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst)** | Three-statement models and DCF valuations built from primary-source SEC filings, with a validation tab tying every historical line back to source | Fully source-linked |
-| **[Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)** | Portfolio risk/performance analytics engine in Excel — VaR/CVaR, CAPM, Black-Litterman optimisation, tax-aware rebalancing | 23-test validation suite |
+| **[Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)** | Portfolio risk/performance analytics engine in Excel: VaR/CVaR, CAPM, Black-Litterman optimisation, tax-aware rebalancing | 23-test validation suite |
 
 ---
 
@@ -25,7 +26,7 @@
 
 CPA Finalist, Kenya · BSc Finance (The Co-operative University of Kenya) · Data Science, ExploreAI Academy (completed March 2026) · McKinsey Forward Program.
 
-3 years at GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) in development-finance operations — AR/receivables, reconciliation, and MI reporting — before moving into the credit-risk and fraud modelling that operations work feeds into.
+3 years at GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) in development-finance operations: AR/receivables, reconciliation, and MI reporting. That operational base is what the credit-risk and fraud modelling above is built on.
 
 ---
 
