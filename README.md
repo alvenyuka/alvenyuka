@@ -22,14 +22,6 @@
 
 ---
 
-## Background
-
-CPA Finalist, Kenya · BSc Finance (The Co-operative University of Kenya) · Data Science, ExploreAI Academy (completed March 2026) · McKinsey Forward Program.
-
-3 years at GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) in development-finance operations: AR/receivables, reconciliation, and MI reporting. That operational base is what the credit-risk and fraud modelling above is built on.
-
----
-
 ## Stack
 
 <p>
