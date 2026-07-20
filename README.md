@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Alven Yuka 👋</h1>
 
 <p align="left">
-  <strong>CPA Finalist working at the intersection of finance and data science, building the credit-risk and fraud models that sit downstream of development-finance operations at GIZ.</strong>
+  <strong>CPA Finalist working at the intersection of finance and data science, building the credit-risk and fraud models that sit downstream of development-finance operations.</strong>
 </p>
 
 <p align="left">
