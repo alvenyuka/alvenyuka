@@ -41,4 +41,4 @@ Credit risk: WoE/IV, scorecard development, GINI/KS/PSI, IFRS 9 ECL. Fraud: imba
 
 Open to **Credit Risk Analyst**, **Data Analyst**, and **Financial Data Scientist** roles.
 
-📫 [alvenyuka2@gmail.com](mailto:alvenyuka2@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) · 🐙 [GitHub](https://github.com/alvenyuka)
+📫 [alvenyuka2@gmail.com](mailto:alvenyuka2@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) 
