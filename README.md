@@ -16,8 +16,8 @@
 | Project | What it does | Result |
 | --- | --- | --- |
 | **[Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard)** ([live](https://credit-risk-alven.vercel.app)) | From-scratch WoE/IV and logistic regression validated line-for-line against scikit-learn on 307,511 real Home Credit applicants, plus a LightGBM benchmark | 0.7774 AUC (LightGBM), 0.9985 correlation vs sklearn |
-| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions: balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall |
-| **[Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst)** | Three-statement models and DCF valuations built from primary-source SEC filings, with a validation tab tying every historical line back to source | Fully source-linked |
+| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** ([live](https://fraud-detection-alven.vercel.app) · [dashboard](https://fraud-detection-system-kmeuq7hku8tglnxdpmalfk.streamlit.app/)) | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions: balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall |
+| **[Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics)** | Funding-risk model on 671K real Kiva microloans joined to region-level MPI poverty data, with SHAP attribution and a days-to-fund regression | 0.4889 PR-AUC, 7.43-day MAE |
 | **[Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)** | Portfolio risk/performance analytics engine in Excel: VaR/CVaR, CAPM, Black-Litterman optimisation, tax-aware rebalancing | 23-test validation suite |
 
 ---
