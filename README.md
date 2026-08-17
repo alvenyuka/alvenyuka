@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Alven Yuka 👋</h1>
 
 <p align="left">
-  <strong>CPA Finalist working at the intersection of finance and data science, building the credit-risk and fraud models that sit downstream of development-finance operations.</strong>
+  <strong>CPA Finalist building credit-risk and fraud models for development-finance lenders.</strong>
 </p>
 
 <p align="left">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
 </p>
 
-Credit risk: WoE/IV, scorecard development, GINI/KS/PSI, IFRS 9 ECL. Fraud: imbalanced classification, cost-sensitive thresholding, PR-AUC-first evaluation. Finance: GAAP/IFRS, 3-statement modelling, DCF valuation.
+Credit risk work covers WoE/IV, scorecard development, and GINI/KS/PSI validation against IFRS 9 ECL requirements. On the fraud side: imbalanced classification with cost-sensitive thresholding, evaluated PR-AUC-first. Finance modelling spans GAAP/IFRS, 3-statement builds, and DCF valuation.
 
 ---
 
