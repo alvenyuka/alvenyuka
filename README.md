@@ -17,18 +17,18 @@
 
 | Project | What it does | Result |
 | --- | --- | --- |
-| **[Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard)** ([live](https://credit-risk-alven.vercel.app)) | From-scratch WoE/IV and logistic regression checked against scikit-learn and scipy at every step (99.9997% prediction agreement), on 307,511 real Home Credit applicants plus bureau/previous-application history | 0.762 AUC, 0.394 KS |
-| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** ([live](https://fraud-detection-alven.vercel.app) · [dashboard](https://fraud-detection-system-kmeuq7hku8tglnxdpmalfk.streamlit.app/)) | XGBoost fraud classifier on 6.3M PaySim mobile-money transactions: balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall on the holdout (95.6% mean precision across 4 walk-forward folds) |
+| **[Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard)** ([live](https://credit-risk-alven.vercel.app)) | From-scratch WoE/IV and logistic regression checked against scikit-learn and scipy at every step (prediction correlation 0.999997), on 307,511 real Home Credit applicants plus bureau/previous-application history | 0.762 AUC, 0.394 KS |
+| **[Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System)** ([live](https://fraud-detection-alven.vercel.app) · [dashboard](https://fraud-detection-system-kmeuq7hku8tglnxdpmalfk.streamlit.app/)) | XGBoost fraud classifier on 6.3M PaySim transactions, a simulator rather than real traffic: balance-discrepancy feature engineering, isotonic calibration, walk-forward validated across 4 folds | 99.85% precision / 99.56% recall on the holdout; walk-forward PR-AUC 0.9986 +/- 0.0013. The committed walk-forward precision predates a threshold-selection fix and is optimistic, see that repo's README |
 | **[Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics)** | Funding-risk model on 671K real Kiva microloans joined to region-level MPI poverty data, with SHAP attribution and a days-to-fund regression | 0.4889 PR-AUC, 7.43-day MAE |
-| **[Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst)** | Three-statement models and DCF valuations built from primary-source SEC filings, each with a validation tab tying every historical line back to the 10-K it came from, and a script that re-derives the arithmetic independently in CI | Apple DCF ≈ $240 vs. $232.50 reference; 50/50 data points traced to filings; 19/19 identities re-derived |
-| **[Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)** | Portfolio risk/performance analytics engine in Excel: VaR/CVaR, CAPM, Black-Litterman optimisation, tax-aware rebalancing, with every derived figure recomputed in Python in CI | 12.59% 7-yr CAGR, 0.37 Sharpe, -12.33% max drawdown; 27/27 figures re-derived |
+| **[Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst)** | Three-statement models and DCF valuations built from primary-source SEC filings, each with a validation tab citing the filing and page behind every historical line, and a script that re-derives the arithmetic independently in CI | Apple DCF $240.05 vs. $232.50, on the workbook's live WACC of 7.79% and terminal growth of 3.0%; at 8.5% and 2.5% the same model returns $205.92. 19/19 identities re-derived and 49/49 lines traced to their source tab |
+| **[Stock-Portfolio-Tracker-Analytics-Engine](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)** | Portfolio analytics in Excel: CAPM decomposition, parametric VaR and CVaR, concentration measures, with every derived figure recomputed in Python in CI | 28/28 figures re-derived, and 4 defects the arithmetic cannot catch reported on every run. The workbook does not net its sell transactions, so its performance figures are not quoted here; that repo's README opens with why |
 
 ---
 
 ## How I work
 
-Three habits show up in every repo above, and they are the part I would actually
-want reviewed:
+Four habits show up across the repos above, and they are the part I would
+actually want reviewed:
 
 - **The metric is chosen before the model.** PR-AUC rather than accuracy at a
   0.13% fraud rate, minority-class PR-AUC rather than the majority class on Kiva
@@ -43,18 +43,22 @@ want reviewed:
   which a walk-forward run already reports, but the pieces whose failure would
   leave every downstream number looking plausible: from-scratch AUC and KS against
   scipy, the gradient-descent solver against scikit-learn, the cost-sensitive
-  threshold, and the leakage guards. 89 tests across five repositories, each
-  running in continuous integration on every push. Two of them exist because of
-  bugs the work hit, including a KS statistic that was correct on continuous
-  scores and wrong under ties, which is what a bucketed scorecard produces.
+  threshold, the leakage guards, and the hand-written model port the fraud demo
+  serves. 103 tests across five repositories, each running in continuous
+  integration on every push. Two of them exist because of bugs the work hit,
+  including a KS statistic that was correct on continuous scores and wrong under
+  ties, which is what a bucketed scorecard produces.
 - **A number is checked outside the tool that produced it.** The two Excel
   repositories each ship a script that recomputes the workbook's own figures in
-  Python and never reads a cell containing a tick. A validation tab reporting
-  its own pass is worth what its formulas are worth. The financial model has 19
-  accounting identities re-derived this way and the portfolio engine has 27, both
-  on GitHub's servers rather than on my machine. Each validator is itself tested
-  by breaking a copy of the workbook and confirming the specific fault is
-  reported, because one that has only seen a correct file proves nothing.
+  Python and never reads a cell containing a tick, and each validator is itself
+  tested by breaking a copy of the workbook and confirming the specific fault is
+  reported. The financial model has 19 accounting identities re-derived this way,
+  plus 49 line items traced back to the statement tab they were copied from; the
+  portfolio engine has 28 figures and four named defects it reports rather than
+  hides. Both run on GitHub's servers rather than on my machine. The argument for
+  why any of that is necessary is made once, in the
+  [Financial-Analyst README](https://github.com/alvenyuka/Financial-Analyst#checking-it-yourself),
+  rather than restated in every repo.
 
 ---
 
