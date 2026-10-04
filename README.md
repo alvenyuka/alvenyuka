@@ -1,9 +1,10 @@
 ## Alven Yuka
 
-CPA Finalist and Accounting Specialist at GIZ in Nairobi, where I have spent three years in donor-funded
-development finance: receivables, reconciliations and management reporting across a multi-donor programme
-portfolio, where I cut outstanding receivables by 40% in four months. Outside work I build credit-risk, fraud and valuation models for lenders and development-finance
-institutions, with every figure traceable to the code or filing that produced it.
+CPA Finalist and Accounting Specialist at GIZ in Nairobi, with three years in donor-funded development finance:
+receivables, reconciliations and management reporting across a multi-donor programme portfolio, including
+cutting outstanding receivables by 40% in four months. Outside work I build credit-risk, fraud and valuation
+models for lenders and development-finance institutions, with every figure traceable to the code or filing that
+produced it.
 
 [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) · [Email](mailto:alvenyuka2@gmail.com)
 
