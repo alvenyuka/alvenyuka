@@ -12,7 +12,7 @@ produced it.
 
 | Project | What it does | Result |
 |---|---|---|
-| [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) | Scores loan applicants for default risk and gives a reason for every decline | Approving the top 80% of applicants would have cut credit losses by 46% on past data (AUC 0.759) |
+| [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) | Scores loan applicants for default risk and gives a reason for every decline | Approving the top 80% of applicants would have cut credit losses by 47% on past data (AUC 0.754) |
 | [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Flags fraudulent mobile-money transfers before the money leaves ([live demo](https://fraud-detection-alven.vercel.app)) | Stopped 99.98% of fraud value on unseen simulated (PaySim) transactions, against 1.1% for the built-in rule, with 3 false alarms |
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Values Apple from its SEC filings, with every figure re-checked by a separate program | Shares worth $139.50 on a standard cost of capital, against a $338.40 market price |
 | [Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics) | Warns which microloans may never be fully funded, on the day they are posted | Reviewing the riskiest 10% of loans reaches 76% of the $5.8M that went unfunded |
