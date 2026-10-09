@@ -1,12 +1,29 @@
-## Alven Yuka
+## Hi, I'm Alven Yuka 👋
 
-CPA Finalist and Accounting Specialist at GIZ in Nairobi, with three years in donor-funded development finance:
-receivables, reconciliations and management reporting across a multi-donor programme portfolio, including
-cutting outstanding receivables by 40% in four months. Outside work I build credit-risk, fraud and valuation
-models for lenders and development-finance institutions, with every figure traceable to the code or filing that
-produced it.
+CPA Finalist and Accounting Specialist at GIZ in Nairobi, with three years in donor-funded development finance.
+Outside work I build credit-risk, fraud and valuation models for lenders and development-finance institutions,
+with every figure traceable to the code or filing that produced it.
 
-[LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) · [Email](mailto:alvenyuka2@gmail.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/alvenyuka?tab=repositories)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)](https://github.com/alvenyuka?tab=repositories)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://github.com/alvenyuka/Financial-Analyst)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
+
+- 💼 **Currently:** Accounting Specialist at GIZ Kenya. Monthly close, variance analysis and donor reporting for
+  12 concurrent programmes with zero audit findings across two review cycles; cut outstanding receivables by 40%
+  in four months; replaced manual budget-variance reporting with a Power BI dashboard that takes two hours
+  instead of three days.
+- 🔭 **Building:** an IFRS 9 expected-credit-loss stress-testing engine for Kenyan SACCO loan portfolios.
+- 🌱 **Learning:** SQL, applied to the finance datasets in the repositories below.
+- 💬 **Ask me about:** credit scorecards and Weight of Evidence, fraud detection on mobile-money data,
+  three-statement models and DCF valuation, Power BI for finance teams, month-end close across a multi-donor
+  portfolio.
+- 📫 **Reach me:** [alvenyuka2@gmail.com](mailto:alvenyuka2@gmail.com) ·
+  [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/)
+- 📍 **Open to:** financial analyst, FP&A, credit risk and financial data analyst roles with lenders, DFIs and
+  fintechs, in Nairobi or remote.
+
+---
 
 ### Selected work
 
@@ -17,6 +34,11 @@ produced it.
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Values Apple from its SEC filings, with every figure re-checked by a separate program | Shares worth $139.50 on a standard cost of capital, against a $338.40 market price |
 | [Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics) | Warns which microloans may never be fully funded, on the day they are posted | Reviewing the riskiest 10% of loans reaches 76% of the $5.8M that went unfunded |
 | [Stock Portfolio Tracker](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Works out a portfolio's real return and risk from its trade history, in Excel | 32.2% a year since 2019, but a 30% fall in semiconductors would cost $39,480 |
+
+Each repository has an executed notebook or a validated workbook, a test suite that runs in CI, and a README
+that states the result in money, the method, and what the result does not show.
+
+---
 
 ### How I work
 
@@ -34,11 +56,7 @@ produced it.
    the one chosen before the test set was seen: the Kiva model is picked on earlier loans and scored once on
    later ones, so it reports 0.374 even though a variant it passed over scored 0.386 on the test set.
 
-### Now
+---
 
-Building an IFRS 9 expected-credit-loss stress-testing engine for Kenyan SACCO loan portfolios. Open to
-financial analyst, FP&A, credit risk and financial data analyst roles with lenders, DFIs and fintechs, in
-Nairobi or remote.
-
-**Tools in the repos above:** Excel, Python (pandas, scikit-learn, XGBoost), pytest.
-**Used in finance work, no public artefact yet:** Power BI, Power Query, SAP. Currently deepening SQL.
+**In the repositories above:** Python (pandas, scikit-learn, XGBoost, LightGBM, SHAP), Excel, pytest.
+**Used daily at work, no public artefact yet:** Power BI, Power Query, SAP S/4HANA.
