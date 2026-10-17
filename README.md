@@ -1,13 +1,15 @@
 ## Hi, I'm Alven Yuka 👋
 
+**Data Scientist · Financial Analyst** · credit risk, fraud and valuation · Nairobi
+
 I build and validate models for finance: credit-risk scorecards, fraud detection, company valuation and
 portfolio risk, for lenders and development-finance institutions, with every figure traceable to the code or
 filing that produced it. The finance side is first-hand: I am a CPA Finalist and an Accounting Specialist at
 GIZ in Nairobi, with three years in donor-funded development finance.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/alvenyuka?tab=repositories)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)](https://github.com/alvenyuka?tab=repositories)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat)](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://github.com/alvenyuka/Credit-Risk-Scorecard)
+[![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat)](https://github.com/alvenyuka/Fraud-Detection-System)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://github.com/alvenyuka/Financial-Analyst)
 
 ### Selected work
@@ -37,7 +39,7 @@ that states the result in money, the method, and what the result does not show.
   valuation and three-statement models, portfolio risk (volatility, drawdown, value at risk), Power BI for
   finance teams, month-end close across a multi-donor portfolio.
 - 📫 **Reach me:** [alvenyuka2@gmail.com](mailto:alvenyuka2@gmail.com) ·
-  [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/)
+  [LinkedIn](https://www.linkedin.com/in/alven-yuka-610b78174/) · [Portfolio site](https://alven-yuka.vercel.app)
 - 📍 **Open to:** data scientist, data analyst, credit-risk and financial data analyst roles, and financial
   analyst roles, with lenders, DFIs, fintechs and investment teams, in Nairobi or remote.
 
