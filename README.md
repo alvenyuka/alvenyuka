@@ -14,7 +14,7 @@ GIZ in Nairobi, with three years in donor-funded development finance.
 
 | Project | What it does | Result |
 |---|---|---|
-| [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) | Scores loan applicants for default risk and gives a reason for every decline | Approving the top 80% of applicants would have cut credit losses by 47% on past data (AUC 0.754) |
+| [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) | Scores loan applicants for default risk and gives a reason for every decline ([live case study](https://credit-risk-alven.vercel.app)) | Approving the top 80% of applicants would have cut credit losses by 47% on past data (AUC 0.754) |
 | [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Flags fraudulent mobile-money transfers before the money leaves ([live demo](https://fraud-detection-alven.vercel.app)) | Stopped 99.98% of fraud value on unseen simulated (PaySim) transactions, against 1.1% for the built-in rule, with 3 false alarms |
 | [Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics) | Warns which microloans may never be fully funded, on the day they are posted | Reviewing the riskiest 10% of loans reaches 76% of the $5.8M that went unfunded |
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Values Apple from its SEC filings, with every figure re-checked by a separate program | Shares worth $139.50 on a standard cost of capital, against a $338.40 market price |
@@ -27,10 +27,11 @@ that states the result in money, the method, and what the result does not show.
 
 - 🔭 **Building:** an IFRS 9 expected-credit-loss stress-testing engine for Kenyan SACCO loan portfolios.
 - 🌱 **Learning:** SQL on the finance datasets above, and deeper valuation and portfolio-risk work.
-- 💼 **Day job:** Accounting Specialist at GIZ Kenya. Monthly close, variance analysis and donor reporting for
-  12 concurrent programmes with zero audit findings across two review cycles; cut outstanding receivables by
-  40% in four months; replaced manual budget-variance reporting with a Power BI dashboard that takes two
-  hours instead of three days.
+- 💼 **Day job:** Accounting Specialist at GIZ Kenya, running the finance operations of a 12-programme
+  multi-donor portfolio: monthly close and donor reporting with zero audit findings across two review cycles,
+  payroll for 350+ staff in SAP and Sage at 100% accuracy, about 300 payables vouchers a month, receivables
+  cut 40% in four months, a Power BI dashboard that takes two hours instead of three days, and an Excel
+  travel-claim tool localised for the Kenya and Somalia offices.
 - 💬 **Ask me about:** credit scorecards and Weight of Evidence, fraud detection on mobile-money data, DCF
   valuation and three-statement models, portfolio risk (volatility, drawdown, value at risk), Power BI for
   finance teams, month-end close across a multi-donor portfolio.
