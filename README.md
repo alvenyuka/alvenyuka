@@ -28,7 +28,7 @@ that states the result in money, the method, and what the result does not show.
 - 🔭 **Building:** an IFRS 9 expected-credit-loss stress-testing engine for Kenyan SACCO loan portfolios.
 - 🌱 **Learning:** SQL on the finance datasets above, and deeper valuation and portfolio-risk work.
 - 💼 **Day job:** Accounting Specialist at GIZ Kenya, running the finance operations of a 12-programme
-  multi-donor portfolio: grant and local-subsidy agreements with partner organisations, monthly close and
+  multi-donor portfolio: 10 to 15 grant and local-subsidy agreements a month with partner organisations, monthly close and
   donor reporting with zero audit findings across two review cycles, payroll for 350+ staff in SAP and Sage
   at 100% accuracy, about 300 payables vouchers a month, receivables cut 40% in four months, a Power BI
   dashboard that takes two hours instead of three days, and an Excel travel-claim tool localised for the
