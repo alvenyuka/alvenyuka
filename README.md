@@ -17,17 +17,19 @@ GIZ in Nairobi, with three years in donor-funded development finance.
 | Project | What it does | Result |
 |---|---|---|
 | [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) | Scores loan applicants for default risk and gives a reason for every decline ([live case study](https://credit-risk-alven.vercel.app)) | Approving the top 80% of applicants would have cut credit losses by 47% on past data (AUC 0.754) |
+| [SACCO Stress Test](https://github.com/alvenyuka/SACCO-Stress-Test) | Stress-tests a Kenyan SACCO loan book under three economic scenarios and reports IFRS 9 expected credit loss | In the severe scenario losses rise from KES 1.81M to KES 19.27M and capital falls to 6.7%, KES 7.68M short of a 10% minimum (synthetic portfolio) |
 | [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) | Flags fraudulent mobile-money transfers before the money leaves ([live demo](https://fraud-detection-alven.vercel.app)) | Stopped 99.98% of fraud value on unseen simulated (PaySim) transactions, against 1.1% for the built-in rule, with 3 false alarms |
 | [Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics) | Warns which microloans may never be fully funded, on the day they are posted | Reviewing the riskiest 10% of loans reaches 76% of the $5.8M that went unfunded |
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Values Apple from its SEC filings, with every figure re-checked by a separate program | Shares worth $139.50 on a standard cost of capital, against a $338.40 market price |
 | [Stock Portfolio Tracker](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine) | Works out a portfolio's real return and risk from its trade history, in Excel | 32.2% a year since 2019, but a 30% fall in semiconductors would cost $39,480 |
 
-Each repository has an executed notebook or a validated workbook, a test suite that runs in CI, and a README
+Each repository has an executed notebook, a validated workbook or a tested engine, a test suite that runs in CI, and a README
 that states the result in money, the method, and what the result does not show.
 
 ---
 
-- 🔭 **Building:** an IFRS 9 expected-credit-loss stress-testing engine for Kenyan SACCO loan portfolios.
+- 🔭 **Just published:** an IFRS 9 expected-credit-loss stress test for a Kenyan SACCO loan book, on a synthetic
+  portfolio with every figure reproduced in CI.
 - 🌱 **Learning:** SQL on the finance datasets above, and deeper valuation and portfolio-risk work.
 - 💼 **Day job:** Accounting Specialist at GIZ Kenya, running the finance operations of a 12-programme
   multi-donor portfolio: 10 to 15 grant and local-subsidy agreements a month with partner organisations, monthly close and
@@ -35,7 +37,7 @@ that states the result in money, the method, and what the result does not show.
   at 100% accuracy, about 300 payables vouchers a month, receivables cut 40% in four months, a Power BI
   dashboard that takes two hours instead of three days, and an Excel travel-claim tool localised for the
   Kenya and Somalia offices.
-- 💬 **Ask me about:** credit scorecards and Weight of Evidence, fraud detection on mobile-money data, DCF
+- 💬 **Ask me about:** credit scorecards and Weight of Evidence, IFRS 9 expected credit loss and stress testing, fraud detection on mobile-money data, DCF
   valuation and three-statement models, portfolio risk (volatility, drawdown, value at risk), Power BI for
   finance teams, month-end close across a multi-donor portfolio.
 - 📫 **Reach me:** [alvenyuka2@gmail.com](mailto:alvenyuka2@gmail.com) ·
