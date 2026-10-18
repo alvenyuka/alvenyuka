@@ -5,7 +5,7 @@
 I build credit-risk, fraud and IFRS 9 models for lenders and development-finance institutions, and I hold
 them to an audit standard. I am a CPA Finalist and an Accounting Specialist at GIZ Kenya, where I run the books
 of a 12-programme multi-donor portfolio with zero audit findings across two review cycles. So every figure in
-these repos traces to the code that wrote it and is checked by a second tool: 208 tests run in CI across six
+these repos traces to the code that wrote it and is checked by a second tool: 215 tests run in CI across six
 projects, each stating its result in money and its limits in plain words.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alven--yuka.vercel.app-12161f?style=flat)](https://alven-yuka.vercel.app)
@@ -43,7 +43,7 @@ projects, each stating its result in money and its limits in plain words.
 | Project | Stack | Scale | Result |
 |---|---|---|---|
 | [Credit Risk Scorecard](https://github.com/alvenyuka/Credit-Risk-Scorecard) · [case study](https://credit-risk-alven.vercel.app) | Python · pandas · scikit-learn · LightGBM · pytest | 307,511 applicants · 8 tables · 62 to 32 features · 69 tests | AUC 0.754, KS 0.381; approving the top 80% cuts credit losses 47% |
-| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) · [live demo](https://fraud-detection-alven.vercel.app) | Python · XGBoost · SHAP · serverless API | 6.36M transactions · 4 walk-forward windows · 56 tests | 99.98% of fraud value stopped with 3 false alarms; PR-AUC 0.9984 |
+| [Fraud Detection System](https://github.com/alvenyuka/Fraud-Detection-System) · [live demo](https://fraud-detection-alven.vercel.app) | Python · XGBoost · SHAP · serverless API | 6.36M transactions · 4 walk-forward windows · 63 tests | 99.98% of fraud value stopped with 3 false alarms; PR-AUC 0.9984 |
 | [Kiva Loans Microfinance Analytics](https://github.com/alvenyuka/Kiva-Loans-Microfinance-Analytics) | Python · LightGBM · SHAP · TF-IDF | 671,205 loans · 33 tests | Reviewing the riskiest 10% reaches 76% of a $5.8M funding shortfall |
 | [SACCO Stress Test](https://github.com/alvenyuka/SACCO-Stress-Test) | Python · IFRS 9 ECL engine | 2,000 synthetic loans · 3 scenarios · 5 tests | ECL rises from KES 1.81M (base) to 19.27M (severe); capital falls from 14.2% to 6.7% |
 | [Financial-Analyst](https://github.com/alvenyuka/Financial-Analyst) | Excel (no macros) · Python validator | 56 line items · 23 valuation figures · 20 tests | Apple base case $139.50 against a $338.40 close |
