@@ -1,13 +1,12 @@
 # Alven Yuka
 
-**Data Scientist and Financial Analyst · credit risk, fraud and valuation for lenders and development finance · Nairobi**
+**Data Scientist and Financial Analyst · credit risk, fraud and IFRS 9 · Nairobi**
 
-I build and validate the models that lenders and development-finance institutions act on: credit-risk
-scorecards, fraud detectors, IFRS 9 expected-credit-loss stress tests and company valuations. Each project
-runs on real or clearly labelled data, ships with a test suite in CI, and states its result in money and its
-limits in plain words. The finance side is first-hand: I am a CPA Finalist and an Accounting Specialist at GIZ
-Kenya, running the books of a 12-programme multi-donor portfolio with zero audit findings across two review
-cycles.
+I build credit-risk, fraud and IFRS 9 models for lenders and development-finance institutions, and I hold
+them to an audit standard. I am a CPA Finalist and an Accounting Specialist at GIZ Kenya, where I run the books
+of a 12-programme multi-donor portfolio with zero audit findings across two review cycles. So every figure in
+these repos traces to the code that wrote it and is checked by a second tool: 208 tests run in CI across six
+projects, each stating its result in money and its limits in plain words.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alven--yuka.vercel.app-12161f?style=flat)](https://alven-yuka.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alven_Yuka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alven-yuka-610b78174/)
