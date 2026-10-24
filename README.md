@@ -16,7 +16,7 @@ Each project re-runs from its repository, has its own tests and states where its
 
 ## Financial models, checked by Python
 
-- [Apple Valuation Model](https://github.com/alvenyuka/Financial-Analyst): an Excel three-statement model and DCF built from Apple's 10-K filings. A separate Python validator re-derives 23 of 23 valuation figures; the base case is $139.50 a share against a $338.40 market price.
+- [Apple Valuation Model](https://github.com/alvenyuka/Apple-DCF-Valuation): an Excel three-statement model and DCF built from Apple's 10-K filings. A separate Python validator re-derives 23 of 23 valuation figures; the base case is $139.50 a share against a $338.40 market price.
 - [Stock Portfolio Tracker](https://github.com/alvenyuka/Stock-Portfolio-Tracker-Analytics-Engine): an Excel workbook that tracks a 16-stock paper portfolio from 112 trades; a Python validator rebuilds 55 of 55 figures. NVIDIA is 45.1% of the portfolio, and a 30% fall in semiconductors would cost $39,480.
 
 ## Connect
